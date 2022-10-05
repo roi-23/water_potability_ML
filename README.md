@@ -1,4 +1,4 @@
-# Water Potability - Machine Learning Assignment
+# Water Portability - Machine Learning Assignment
 
 ## Introduction
 
