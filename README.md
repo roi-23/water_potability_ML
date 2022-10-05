@@ -102,5 +102,5 @@ Data Science/Machine Learning Framework you wish.
 ## Deliverable & Deadline
 
 Please deliver a `*.zip` archive containing source code, and any accompanying
-files require to execute the model by Monday, August 8th 2022 end-of-day
+files require to execute the model by ____,2022 end-of-day
 (5 PM MDT).
