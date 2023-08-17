@@ -1,4 +1,4 @@
-# Water Portability - Machine Learning Assignment
+# Water Portability - Machine Learning Project
 
 ## Introduction
 
